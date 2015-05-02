@@ -14,3 +14,4 @@ TODO
 * Considerar evitar gerar pedido.
 * Limitar assinatura apenas para produtos pré-configurados.
 * Criação de planos pré montados.
+* Coletar e Tratar erros provenientes do ws do pagseguro.
