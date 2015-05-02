@@ -1,1 +1,1 @@
-# Módulo de pagamento recorrente do pagseguro Para opencart
+# Módulo de pagamento recorrente do pagseguro para Opencart
